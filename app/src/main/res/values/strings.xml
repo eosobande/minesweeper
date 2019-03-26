@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="total_mines">Total Mines: %d</string>
+    <string name="total_marked">Total Marked: %d</string>
+    <string name="uncover">UNCOVERING MODE</string>
+    <string name="reset">RESET</string>
+    <string name="mark">MARKING MODE</string>
+    <string name="game_over">Game Over</string>
+    <string name="you_win">Horray! You Win!</string>
+    <string name="game_ended">Game has ended!</string>
+    <string name="game_reset">Game Reset</string>
+</resources>
